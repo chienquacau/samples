@@ -1,3 +1,3 @@
-channel_id,channel_name,url,platform,category,description,owner_note,date_added,status
-1,,https://www.facebook.com/share/1CWZkVs9Ds/,Facebook,,,"Link gốc 1 - cần cập nhật tên kênh/mô tả",2026-10-03,active
-2,,https://www.facebook.com/share/1D7B6W5tFn/,Facebook,,,"Link gốc 2 - cần cập nhật tên kênh/mô tả",2026-10-03,active
+channel_id,group,platform,category,channel_name,url,description,owner_note,date_added,status
+1,competitor,Facebook,,,"https://www.facebook.com/share/1CWZkVs9Ds/","","Link gốc 1 - cần cập nhật tên kênh/thể loại/mô tả",2026-10-03,active
+2,competitor,Facebook,,,"https://www.facebook.com/share/1D7B6W5tFn/","","Link gốc 2 - cần cập nhật tên kênh/thể loại/mô tả",2026-10-03,active
